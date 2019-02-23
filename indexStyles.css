@@ -1,0 +1,10 @@
+body {
+    background: orange;
+}
+
+.mainHeader {
+    background: black;
+    text-align: center;
+    color: orange;
+    display: block;
+}
